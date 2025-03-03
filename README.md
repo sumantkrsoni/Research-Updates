@@ -28,3 +28,8 @@ Weekly-Research Updates
 
 - Going to read and analyze the GNN code for the collected simple research papers
 - Need to conduct the exam on campus as well as the training session for the courses here
+
+
+
+
+
