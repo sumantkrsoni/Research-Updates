@@ -29,7 +29,15 @@ Weekly-Research Updates
 - Going to read and analyze the GNN code for the collected simple research papers
 - Need to conduct the exam on campus as well as the training session for the courses here
 
+# Date: 08 March 2025
 
+## Accomplished Work
+-Data Pre-Processing and Visualization for GNN 
 
+## Pending Work
+Arrange the data according to the GNN Structure
+Preparing the GNN structure according to the Well-Sample
+GNN-Code is needs to be updated
 
-
+## Projected Plan for Next Week
+Same as Pending Work
