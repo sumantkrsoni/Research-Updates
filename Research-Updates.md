@@ -28,3 +28,18 @@ Weekly-Research Updates
 
 - Going to read and analyze the GNN code for the collected simple research papers
 - Need to conduct the exam on campus as well as the training session for the courses here
+
+
+
+## Research Update for Meeting (25-04-2025)
+
+- Updated the hyperparameters of GNN code to improve the accuracy of saturation
+- Gone through the papers sent by Daniel
+- Trying to improve the accuracy and Scale to the bigger dataset
+
+## Projected plan for next meet:
+- Writing my own code that executes the same task of encoding, processing and decoding for the reservoir data
+- Improving the results of saturation of the GNN code
+- Read and discuss the research problem in the relevant field.
+
+
