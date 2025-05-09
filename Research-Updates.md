@@ -1,7 +1,7 @@
 # Research-Updates
 Weekly-Research Updates
 
-# Date: 04 March 2025
+## Date: 04 March 2025
 
 ## Accomplished Work
 
@@ -40,6 +40,22 @@ Weekly-Research Updates
 ## Projected plan for next meet:
 - Writing my own code that executes the same task of encoding, processing and decoding for the reservoir data
 - Improving the results of saturation of the GNN code
+- Read and discuss the research problem in the relevant field.
+
+
+
+
+
+# Meeting @ 09 May, 2025
+## Research Update for Meeting (09-05-2025)
+
+- The code for both model is showing better results (but it has no physics in it)
+- The data has been modified but it seems the transmissibility has not been incorporated in the edge feature
+- Also, tried the Inference stage but not separately. Now, working on the inference part for reservoir prediction separately
+
+## Projected plan for next meet:
+- Try to improve and analyze the code written so far by PhD Scholars
+- Writing my own code that executes the same task of encoding, processing and decoding for the reservoir data
 - Read and discuss the research problem in the relevant field.
 
 
