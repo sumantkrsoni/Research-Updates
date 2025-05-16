@@ -59,3 +59,8 @@ Weekly-Research Updates
 - Read and discuss the research problem in the relevant field.
 
 
+
+# Meeting @ 16 May, 2025
+## Proposed Plan for next meet:
+to write own code for workflow
+go through the papers once again for cross validation of each parameters.
